@@ -1,0 +1,14 @@
+Google File Search RAG System
+
+This is a Retrieval Augmented Generation system that uses Google's File Search API 
+instead of traditional vector databases. 
+
+Key Features:
+- Semantic search using Google's embeddings
+- Citation support with source attribution  
+- Multi-format document support (PDF, TXT, DOCX, HTML, Markdown)
+- No infrastructure management required
+- Built-in document processing and indexing
+
+The system eliminates the complexity of managing vector databases while providing 
+enterprise-grade semantic search capabilities.

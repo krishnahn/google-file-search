@@ -1,0 +1,100 @@
+{
+  "nursing-knowledge": [
+    {
+      "name": "files/oy8g5ikpb2s0",
+      "display_name": "Nursing data_tamil.pdf",
+      "size_bytes": 3983040,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/bmlhus8qtqty",
+      "display_name": "Nursing data_hindi.pdf",
+      "size_bytes": 3933643,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/2fm0ct8lu4zw",
+      "display_name": "tamilnadu_nursing_council.pdf",
+      "size_bytes": 1569516,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/fj4niuocfo96",
+      "display_name": "Tamil Nadu Government Nursing (Overview).pdf",
+      "size_bytes": 66161,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/w9bmjbfhwy4k",
+      "display_name": "tamilnadu_nursing_council_malayalam.pdf",
+      "size_bytes": 5363793,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/eht2itxu6d55",
+      "display_name": "Nursing data_malayalam.pdf",
+      "size_bytes": 4048487,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/xrjlpix3dcpm",
+      "display_name": "tamilnadu_nursing_council_hindi.pdf",
+      "size_bytes": 5333791,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/ief0kowzk90f",
+      "display_name": "Nursing data.pdf",
+      "size_bytes": 2517814,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    },
+    {
+      "name": "files/ubycckewac4j",
+      "display_name": "sample_document.txt",
+      "size_bytes": 540,
+      "mime_type": "text/plain",
+      "metadata": {}
+    },
+    {
+      "name": "files/wyk1prae23gr",
+      "display_name": "tamilnadu_nursing_council_tamil.pdf",
+      "size_bytes": 5290934,
+      "mime_type": "application/pdf",
+      "metadata": {}
+    }
+  ],
+  "quick-test-store": [
+    {
+      "name": "files/tre8dplxwmn8",
+      "display_name": "sample_document.txt",
+      "size_bytes": 540,
+      "mime_type": "text/plain",
+      "metadata": [
+        {
+          "key": "document_type",
+          "string_value": "demo"
+        }
+      ]
+    },
+    {
+      "name": "files/r4a39s1e517d",
+      "display_name": "sample_document.txt",
+      "size_bytes": 540,
+      "mime_type": "text/plain",
+      "metadata": [
+        {
+          "key": "document_type",
+          "string_value": "demo"
+        }
+      ]
+    }
+  ]
+}

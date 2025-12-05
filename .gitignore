@@ -100,3 +100,8 @@ yarn.lock
 .Python
 pip-log.txt
 pip-delete-this-directory.txt
+
+#documents
+data/documents/*.pdf
+data/documents/*.txt
+data/documents/*.docx

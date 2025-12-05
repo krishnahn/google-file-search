@@ -52,11 +52,18 @@ htmlcov/
 .dmypy.json
 dmypy.json
 
-# Data files (optional - uncomment if you don't want to push documents)
-# data/documents/*.pdf
-# data/documents/*.txt
-# data/documents/*.docx
+# Data files - excluding large document files to avoid GitHub size limits
+data/documents/*.pdf
+data/documents/*.docx
+data/documents/*.txt
+data/documents/*.xlsx
+data/documents/*.xls
+data/documents/*.ppt
+data/documents/*.pptx
 data/stores.json
+
+# Keep only sample document
+!data/documents/sample_document.txt
 
 # Temporary files
 *.tmp
@@ -100,8 +107,3 @@ yarn.lock
 .Python
 pip-log.txt
 pip-delete-this-directory.txt
-
-#documents
-data/documents/*.pdf
-data/documents/*.txt
-data/documents/*.docx
